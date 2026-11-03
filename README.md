@@ -12,12 +12,6 @@ Zhixin Xu · Hengyu Zhou · Yuan Liu · Wenhan Xue · Hao Pan · Wenping Wang ·
 
 </div>
 
-<p align="center">
-  <img src="assets/teaser.png" alt="Dynamic reconstruction from unsynchronized videos versus temporally aligned videos." width="355" />
-  <br />
-  <sub>Recovering sharper dynamic scenes through temporal alignment.</sub>
-</p>
-
 ## Timeline
 
 - **2025-11-14** — Paper released on arXiv.
