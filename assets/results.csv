@@ -1,0 +1,43 @@
+method,scene,PSNR,SSIM,LPIPS,source
+Sync-Nerf,Coffee Martini,27.64,0.893,0.147,arXiv:2511.11175v1 Table 1
+Sync-Nerf,Cook Spinach,28.90,0.918,0.132,arXiv:2511.11175v1 Table 1
+Sync-Nerf,Cut Roasted Beef,29.96,0.925,0.125,arXiv:2511.11175v1 Table 1
+Sync-Nerf,Flame Salmon,27.00,0.890,0.150,arXiv:2511.11175v1 Table 1
+Sync-Nerf,Flame Steak,30.66,0.942,0.093,arXiv:2511.11175v1 Table 1
+Sync-Nerf,Sear Steak,30.50,0.938,0.110,arXiv:2511.11175v1 Table 1
+SC-GS,Coffee Martini,26.81,0.906,0.113,arXiv:2511.11175v1 Table 1
+SC-GS,Cook Spinach,30.53,0.939,0.104,arXiv:2511.11175v1 Table 1
+SC-GS,Cut Roasted Beef,31.13,0.943,0.095,arXiv:2511.11175v1 Table 1
+SC-GS,Flame Salmon,26.83,0.912,0.105,arXiv:2511.11175v1 Table 1
+SC-GS,Flame Steak,30.34,0.947,0.096,arXiv:2511.11175v1 Table 1
+SC-GS,Sear Steak,30.92,0.950,0.085,arXiv:2511.11175v1 Table 1
+SC-GS+Ours,Coffee Martini,25.68,0.898,0.125,arXiv:2511.11175v1 Table 1
+SC-GS+Ours,Cook Spinach,31.54,0.947,0.089,arXiv:2511.11175v1 Table 1
+SC-GS+Ours,Cut Roasted Beef,31.37,0.949,0.084,arXiv:2511.11175v1 Table 1
+SC-GS+Ours,Flame Salmon,27.10,0.915,0.102,arXiv:2511.11175v1 Table 1
+SC-GS+Ours,Flame Steak,31.46,0.953,0.081,arXiv:2511.11175v1 Table 1
+SC-GS+Ours,Sear Steak,31.20,0.949,0.092,arXiv:2511.11175v1 Table 1
+4DGaussians,Coffee Martini,26.44,0.905,0.120,arXiv:2511.11175v1 Table 1
+4DGaussians,Cook Spinach,31.44,0.946,0.098,arXiv:2511.11175v1 Table 1
+4DGaussians,Cut Roasted Beef,31.37,0.941,0.096,arXiv:2511.11175v1 Table 1
+4DGaussians,Flame Salmon,28.01,0.917,0.109,arXiv:2511.11175v1 Table 1
+4DGaussians,Flame Steak,30.68,0.952,0.087,arXiv:2511.11175v1 Table 1
+4DGaussians,Sear Steak,29.67,0.947,0.082,arXiv:2511.11175v1 Table 1
+4DGaussians+Ours,Coffee Martini,28.01,0.918,0.108,arXiv:2511.11175v1 Table 1
+4DGaussians+Ours,Cook Spinach,32.57,0.951,0.089,arXiv:2511.11175v1 Table 1
+4DGaussians+Ours,Cut Roasted Beef,31.71,0.948,0.093,arXiv:2511.11175v1 Table 1
+4DGaussians+Ours,Flame Salmon,29.53,0.923,0.103,arXiv:2511.11175v1 Table 1
+4DGaussians+Ours,Flame Steak,32.63,0.955,0.077,arXiv:2511.11175v1 Table 1
+4DGaussians+Ours,Sear Steak,32.51,0.959,0.080,arXiv:2511.11175v1 Table 1
+RT4DGS*,Coffee Martini,27.92,0.919,0.085,arXiv:2511.11175v1 Table 1
+RT4DGS*,Cook Spinach,31.15,0.948,0.077,arXiv:2511.11175v1 Table 1
+RT4DGS*,Cut Roasted Beef,31.43,0.953,0.072,arXiv:2511.11175v1 Table 1
+RT4DGS*,Flame Salmon,27.78,0.923,0.080,arXiv:2511.11175v1 Table 1
+RT4DGS*,Flame Steak,31.13,0.956,0.068,arXiv:2511.11175v1 Table 1
+RT4DGS*,Sear Steak,32.94,0.965,0.058,arXiv:2511.11175v1 Table 1
+RT4DGS*+Ours,Coffee Martini,28.35,0.924,0.079,arXiv:2511.11175v1 Table 1
+RT4DGS*+Ours,Cook Spinach,33.15,0.962,0.059,arXiv:2511.11175v1 Table 1
+RT4DGS*+Ours,Cut Roasted Beef,32.94,0.963,0.056,arXiv:2511.11175v1 Table 1
+RT4DGS*+Ours,Flame Salmon,28.79,0.929,0.070,arXiv:2511.11175v1 Table 1
+RT4DGS*+Ours,Flame Steak,33.34,0.968,0.050,arXiv:2511.11175v1 Table 1
+RT4DGS*+Ours,Sear Steak,33.51,0.968,0.055,arXiv:2511.11175v1 Table 1
